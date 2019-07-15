@@ -1,0 +1,11 @@
+"""
+
+date types
+
+"""
+
+INTEGER = "INT"
+STRING = "VARCHAR"
+DATE = "DATE"
+FLOAT = "FLOAT"
+BOOLEAN = "BOOLEAN"
